@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Project Second Chancel</title>
+<style>
+body {
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+background: #f5f9f7;
+color: #2c3e50;
+margin: 0;
+padding: 20px;
+}
+header {
+text-align: center;
+padding-bottom: 20px;
+border-bottom: 2px solid #27ae60;
+}
+h1 {
+color: #27ae60;
+}
+section {
+max-width: 800px;
+margin: 20px auto;
+background: white;
+padding: 25px;
+border-radius: 8px;
+box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+h2 {
+border-bottom: 2px solid #27ae60;
+padding-bottom: 8px;
+margin-bottom: 15px;
+color: #27ae60;
+}
+ul {
+line-height: 1.6;
+}
+footer {
+text-align: center;
+margin-top: 40px;
+font-size: 0.9em;
+color: #777;
+}
+</style>
+</head>
+<body>
+
+<header>
+<h1>Project Second Chancel</h1>
+<p><em>Reducing waste, empowering communities</em></p>
+</header>
+
+<section>
+<h2>Mission Statement</h2>
+<p>To reduce waste and empower communities by collecting gently used clothing, electronics, and furniture, then redistributing them for free or at low cost to families in need.</p>
+</section>
+
+<section>
+<h2>Core Goals</h2>
+<ul>
+<li><strong>Environmental Impact</strong> – keep usable goods out of landfills.</li>
+<li><strong>Community Support</strong> – provide essentials to low-income households.</li>
+<li><strong>Skill-Building</strong> – offer repair workshops (fixing clothes, electronics, bikes, etc.) so people can learn practical skills.</li>
+<li><strong>Youth Involvement</strong> – create volunteer opportunities for teens and young adults, encouraging leadership and community service.</li>
+</ul>
+</section>
+
+<section>
+<h2>How It Works</h2>
+<ul>
+<li><strong>Donations:</strong> Partner with schools, local businesses, and residents to collect used but functional items.</li>
+<li><strong>Distribution:</strong> Open a “community hub” where families can pick up what they need.</li>
+<li><strong>Workshops:</strong> Host weekly events where volunteers teach basic repair, sewing, and recycling skills.</li>
+<li><strong>Eco-Education:</strong> Run awareness campaigns about sustainability and reducing consumer waste.</li>
+</ul>
+</section>
+
+<section>
+<h2>Funding Sources</h2>
+<ul>
+<li>Small grants from local government and foundations.</li>
+<li>Corporate sponsorships (e.g., stores donating excess inventory).</li>
+<li>Fundraisers (community yard sales, eco-fairs, donation drives).</li>
+</ul>
+</section>
+
+<section>
+<h2>Impacts</h2>
+<ul>
+<li>Helps families save money.</li>
+<li>Strengthens community bonds.</li>
+<li>Promotes sustainability.</li>
+<li>Creates volunteer and leadership opportunities.</li>
+</ul>
+</section>
+
+<footer>
+&copy; 2025 Project Second Chancel. All rights reserved.
+</footer>
+
+</body>
+</html>
